@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="src/main/resources/assets/modid/icon.png" width="128" alt="Red Client">
-</p>
-
 <h1 align="center">Red Client 2.6</h1>
 
 <p align="center">
