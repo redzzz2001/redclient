@@ -13,7 +13,7 @@
 
 Feito para quem quer configurar combate, movimento, ESP e automacoes em uma interface unica, com menu por categorias, rolagem e hotkeys individuais.
 
-> [!Aviso]
+> [!WARNING]
 > O uso de mods que alteram combate, movimento ou interacao pode violar as regras de servidores e resultar em kick, reset, suspensao ou banimento. O **redclient, seu autor e seus colaboradores nao se responsabilizam por banimentos, perda de progresso, danos ou qualquer outra consequencia causada pelo uso do mod**. Use por sua conta e risco e respeite as regras do servidor.
 
 ## Versoes suportadas
