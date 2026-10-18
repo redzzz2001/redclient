@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "dev.redzzz.xray.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"HudMixin",
+		"LocalPlayerMixin",
+		"MinecraftMixin",
+		"MultiPlayerGameModeMixin",
+		"NightVisionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
